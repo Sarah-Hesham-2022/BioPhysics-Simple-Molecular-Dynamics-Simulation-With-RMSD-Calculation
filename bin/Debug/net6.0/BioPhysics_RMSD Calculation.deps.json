@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BioPhysics_RMSD Calculation/1.0.0": {
+        "runtime": {
+          "BioPhysics_RMSD Calculation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BioPhysics_RMSD Calculation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
